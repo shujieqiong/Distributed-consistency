@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Dec 24 11:02:43 CST 2019
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=Databasecon.jar
+manifest.mergeall=true
+manifest.mainclass=datebasework.readatebase
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
